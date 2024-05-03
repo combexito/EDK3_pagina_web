@@ -9,7 +9,7 @@
 }
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: #1b1726;
+    background-color: #280538;
 }
 img{
     max-width: 100%;
@@ -19,7 +19,7 @@ max-width: 1200px;
 margin: 0 auto;
 }
 .header {
-    background-image: url(imagenes/bg.jpg);
+    background-image: url(imagenes/R.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
